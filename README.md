@@ -34,9 +34,4 @@ With these aforementioned steps in mind, now the general algorithm of clustering
 Below, you can find a simple illustration of the above method to get more insight into that.
 
 
-
-
-
-https://user-images.githubusercontent.com/45314641/191182285-996d324e-2f6c-4e4d-b34f-2e36b6c3eb8c.mp4
-
-
+As can be seen, as more iterations are executed, centroids become more obvious and separated. However, it is not the best answer since not all ten district numbers appear in the final centroids. One possible reason for that can be the poor initialization of centroids which occurs frequently in the K-means algorithm as well.
