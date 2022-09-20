@@ -1,4 +1,4 @@
-# Clustring_with_Neural_Networks
+# Clustering_with_Neural_Networks
 
 
 ## Discription
@@ -33,5 +33,6 @@ With these aforementioned steps in mind, now the general algorithm of clustering
 
 Below, you can find a simple illustration of the above method to get more insight into that.
 
+https://user-images.githubusercontent.com/45314641/191185224-cf48f8e3-3c34-4002-827d-ce89424108d1.mp4
 
 As can be seen, as more iterations are executed, centroids become more obvious and separated. However, it is not the best answer since not all ten district numbers appear in the final centroids. One possible reason for that can be the poor initialization of centroids which occurs frequently in the K-means algorithm as well.
