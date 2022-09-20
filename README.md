@@ -1,5 +1,4 @@
-# Clustering_with_Neural_Networks
-
+# Deep Clustering
 
 ## Discription
 
